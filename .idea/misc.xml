@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="POC 2205251053/src/main/res/drawable/ic_android_settings_mobile_network_foreground.xml" value="0.2775" />
+        <entry key="POC 2205251053/src/main/res/drawable/ic_launcher_background.xml" value="0.2775" />
+        <entry key="POC 2205251053/src/main/res/drawable/outline_signal_cellular_alt_custom_24.xml" value="0.2775" />
         <entry key="POC 2205251053/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
       </map>
     </option>
